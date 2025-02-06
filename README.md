@@ -1,7 +1,7 @@
 # 🗺️ AR Indoor Navigation System 🚀🌐
 
 ## 📸 App Interface
-![AR Navigation App Interface](/screenshots/ar-navigation-interface.png)
+![AR Navigation App Interface](https://github.com/radhika004/AR_indoor_navigation_college_campus/blob/main/navi.jpg)
 
 ## 🌟 Project Overview
 An advanced augmented reality indoor navigation system designed to revolutionize indoor wayfinding through cutting-edge technology and intuitive user experience. 🧭📍
